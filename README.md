@@ -21,33 +21,21 @@ SharePoint Embedded is a cloud-based file and document management system suitabl
 Microsoft has built several applications on SharePoint Embedded:
 
 - **[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)** - Collaborative workspace that brings together teams, content, and tasks across your tools and devices. Built on SharePoint Embedded for document storage and collaboration.
-- **[Copilot Pages](https://support.microsoft.com/en-us/topic/welcome-to-copilot-pages-91118ad9-44de-4f44-8b47-f4a8c1c0cb5e)** - A dynamic, persistent canvas in Microsoft 365 Copilot where you can collaborate with others on AI-generated content. Uses SharePoint Embedded for content persistence.
 - **[Microsoft Designer](https://designer.microsoft.com/)** - AI-powered design tool that leverages SharePoint Embedded for storing and managing design assets.
 
 ## ISV Applications
 
-Independent software vendors building solutions with SharePoint Embedded:
-
-- **[Sheetbin](https://www.sheetbin.com/)** - Spreadsheet automation and data management platform.
-  - [Homepage](https://www.sheetbin.com/)
-  - [Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin)
+Independent software vendors building solutions with SharePoint Embedded.
 
 ## Learning Resources
 
 ### Official Documentation
 
 - **[SharePoint Embedded Overview](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview)** - Official Microsoft Learn documentation covering the fundamentals of SharePoint Embedded.
-- **[Getting Started with SharePoint Embedded](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/getting-started)** - Step-by-step guide to start building with SharePoint Embedded.
 - **[SharePoint Embedded API Reference](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes)** - Complete API documentation for SharePoint Embedded.
-- **[SharePoint Embedded Authentication](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/authentication)** - Guide to implementing authentication in SharePoint Embedded applications.
-- **[SharePoint Embedded Billing](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/billing)** - Understanding billing and consumption models.
-- **[Admin Experience for SharePoint Embedded](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/admin-exp/adminexp)** - Documentation for administrators managing SharePoint Embedded applications.
 
 ### Video Tutorials
 
-- **[Introduction to SharePoint Embedded](https://www.youtube.com/watch?v=5KxMVmhKPOo)** - Microsoft 365 Developer overview of SharePoint Embedded capabilities.
-- **[Build Your First SharePoint Embedded App](https://www.youtube.com/watch?v=V-6CC0vZMkQ)** - Hands-on tutorial for creating a SharePoint Embedded application.
-- **[SharePoint Embedded: Developer Deep Dive](https://www.youtube.com/watch?v=nL1TvPbLGLg)** - Technical deep dive into SharePoint Embedded architecture and APIs.
 - **[Microsoft 365 & Power Platform Development Community Calls](https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)** - Regular community calls featuring SharePoint Embedded updates and demos.
 
 ### Blog Posts & Articles
@@ -58,8 +46,6 @@ Independent software vendors building solutions with SharePoint Embedded:
 
 ## Developer Tools
 
-- **[SharePoint Embedded Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=SharepointEmbedded.ms-sharepoint-embedded)** - Official VS Code extension for SharePoint Embedded development.
-- **[SharePoint Embedded Postman Collection](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/samples/postman-collection)** - Pre-configured Postman collection for testing SharePoint Embedded APIs.
 - **[SharePoint Embedded Samples](https://github.com/microsoft/SharePoint-Embedded-Samples)** - Official Microsoft sample applications and code snippets.
 
 ## Community
