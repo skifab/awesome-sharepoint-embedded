@@ -1,2 +1,65 @@
-# awesome-sharepoint-embedded
-A curated collection of applications and learning resources using SharePoint Embedded
+# Awesome SharePoint Embedded [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome SharePoint Embedded applications, resources, and learning materials.
+
+SharePoint Embedded is a cloud-based file and document management system suitable for use in any application. It provides API-only enterprise-grade compliance, security, and Microsoft 365 integration capabilities.
+
+## Contents
+
+- [Microsoft First-Party Applications](#microsoft-first-party-applications)
+- [ISV Applications](#isv-applications)
+- [Learning Resources](#learning-resources)
+  - [Official Documentation](#official-documentation)
+  - [Video Tutorials](#video-tutorials)
+  - [Blog Posts & Articles](#blog-posts--articles)
+- [Developer Tools](#developer-tools)
+- [Community](#community)
+- [Contributing](#contributing)
+
+## Microsoft First-Party Applications
+
+Microsoft has built several applications on SharePoint Embedded:
+
+- **[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)** - Collaborative workspace that brings together teams, content, and tasks across your tools and devices. Built on SharePoint Embedded for document storage and collaboration.
+- **[Microsoft Designer](https://designer.microsoft.com/)** - AI-powered design tool that leverages SharePoint Embedded for storing and managing design assets.
+
+## ISV Applications
+
+Independent software vendors building solutions with SharePoint Embedded.
+
+## Learning Resources
+
+### Official Documentation
+
+- **[SharePoint Embedded Overview](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview)** - Official Microsoft Learn documentation covering the fundamentals of SharePoint Embedded.
+- **[SharePoint Embedded API Reference](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes)** - Complete API documentation for SharePoint Embedded.
+
+### Video Tutorials
+
+- **[Microsoft 365 & Power Platform Development Community Calls](https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)** - Regular community calls featuring SharePoint Embedded updates and demos.
+
+### Blog Posts & Articles
+
+- **[SharePoint Embedded Tech Community Blog](https://techcommunity.microsoft.com/t5/sharepoint-embedded-blog/bg-p/SharePointEmbeddedBlog)** - Official Microsoft Tech Community blog with announcements and articles.
+- **[Announcing SharePoint Embedded](https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-build-file-and/ba-p/3830351)** - Initial public preview announcement blog post.
+- **[SharePoint Embedded: What Developers Need to Know](https://developer.microsoft.com/en-us/microsoft-365/blogs/)** - Microsoft 365 Developer blog covering SharePoint Embedded topics.
+
+## Developer Tools
+
+- **[SharePoint Embedded Samples](https://github.com/microsoft/SharePoint-Embedded-Samples)** - Official Microsoft sample applications and code snippets.
+
+## Community
+
+- **[SharePoint Developer Community](https://aka.ms/sppnp)** - Patterns and Practices community including SharePoint Embedded discussions.
+- **[Microsoft Tech Community - SharePoint Embedded](https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded)** - Official forum for questions and discussions.
+- **[Stack Overflow](https://stackoverflow.com/questions/tagged/sharepoint-embedded)** - Questions tagged with `sharepoint-embedded`.
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, skifab has waived all copyright and related or neighboring rights to this work.
