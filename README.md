@@ -6,8 +6,9 @@ SharePoint Embedded is a cloud-based file and document management system suitabl
 
 ## Contents
 
-- [Microsoft First-Party Applications](#microsoft-first-party-applications)
-- [ISV Applications](#isv-applications)
+- [Applications](#applications)
+  - [Microsoft First-Party Applications](#microsoft-first-party-applications)
+  - [ISV Applications](#isv-applications)
 - [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Video Tutorials](#video-tutorials)
@@ -16,16 +17,21 @@ SharePoint Embedded is a cloud-based file and document management system suitabl
 - [Community](#community)
 - [Contributing](#contributing)
 
-## Microsoft First-Party Applications
+## Applications
+
+### Microsoft First-Party Applications
 
 Microsoft has built several applications on SharePoint Embedded:
 
 - **[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)** - Collaborative workspace that brings together teams, content, and tasks across your tools and devices. Built on SharePoint Embedded for document storage and collaboration.
 - **[Microsoft Designer](https://designer.microsoft.com/)** - AI-powered design tool that leverages SharePoint Embedded for storing and managing design assets.
 
-## ISV Applications
+### ISV Applications
 
 Independent software vendors building solutions with SharePoint Embedded.
+
+- **[M-Files](https://www.m-files.com/lp/microsoft-365-document-management/)** - Document Management Platform
+- **[Sheetbin](https://sheetbin.com) [🧳](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin)** - Sharing site for Excel files.
 
 ## Learning Resources
 
