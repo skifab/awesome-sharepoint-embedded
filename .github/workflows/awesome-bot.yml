@@ -9,6 +9,8 @@ on:
 jobs:
   awesome-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
 
