@@ -30,7 +30,7 @@ Independent software vendors building solutions with SharePoint Embedded:
 
 - **[Sheetbin](https://www.sheetbin.com/)** - Spreadsheet automation and data management platform.
   - [Homepage](https://www.sheetbin.com/)
-  - [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/web-apps/sheetbin.sheetbin)
+  - [Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin)
 
 ## Learning Resources
 
