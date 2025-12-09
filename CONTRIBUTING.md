@@ -104,6 +104,5 @@ If a resource is no longer relevant, active, or available:
 If you have questions about contributing, feel free to:
 
 - Open an issue for discussion
-- Ask in the [SharePoint Embedded Tech Community](https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded)
 
 Thank you for helping make this list awesome! 🎉
