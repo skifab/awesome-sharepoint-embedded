@@ -42,7 +42,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: '🔗 Broken links detected',
-              body: 'The link checker workflow has detected broken links in the README. Please review the [workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details.',
+              body: `The link checker workflow has detected broken links in the README. Please review the [workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`,
               labels: ['broken-link']
             });
             console.log(`Created issue #${issue.data.number}`);
