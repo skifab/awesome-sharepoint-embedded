@@ -32,7 +32,6 @@ jobs:
             --exclude 'helpdesk.egnyte.com'
             --max-retries 3
             --timeout 20
-            --header 'Accept: text/html'
             README.md
           fail: true
         env:
