@@ -45,7 +45,7 @@ Independent software vendors building solutions with SharePoint Embedded.
 Internal enterprise solutions built on SharePoint Embedded.
 
 - **[BDO](https://www.struto.io/case-studies/bdo-boosts-efficiency-crm-migration-sharepoint-x-hubspot-integration)** - Global accounting firm using SharePoint Embedded for document management and CRM integration, enabling secure client document workflows.
-- **[eni](https://download.microsoft.com/documents/customerevidence/Files/4000006412/EniEandPCaseStudy_Final.docx)** - Italian energy company using SharePoint Embedded for knowledge management and collaboration across global operations.
+- **[eni](https://www.eni.com/)** - Italian energy company using SharePoint Embedded for knowledge management and collaboration across global operations ([source](https://youtu.be/TAGeWQ606is?si=vg9uW8ZCZyXq60jT&t=2805)).
 - **[Kantar](https://www.kantar.com/)** - Market research firm ([source](https://youtu.be/TAGeWQ606is?si=vg9uW8ZCZyXq60jT&t=2805)).
 - **[KPMG Clara](https://techcommunity.microsoft.com/blog/sharepoint_embedded/announcing-sharepoint-embedded-public-preview-at-espc23/3993428)** - Global audit platform using SharePoint Embedded for secure, compliant document collaboration at enterprise scale.
 - **[Thomson Reuters CoCounsel](https://www.thomsonreuters.com/en-us/help/cocounsel/legal/integrations/microsoft-365-integration/use-cocounsel-with-sharepoint-embedded)** - AI-powered legal platform using SharePoint Embedded for secure document management within client Microsoft 365 tenants.
