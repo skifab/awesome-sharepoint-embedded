@@ -47,7 +47,7 @@ Independent software vendors building solutions with SharePoint Embedded.
 ## Learning Resources
 
 ### Official Documentation
-
+- **[What's new in SharePoint Embedded](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/whats-new)** - What's new in SharePoint Embedded on Microsoft Learn
 - **[Get Started with SharePoint Embedded](https://aka.ms/start-spe)** - Official Microsoft Learn getting started guide for SharePoint Embedded.
 - **[SharePoint Embedded API Reference](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes)** - Complete API documentation for SharePoint Embedded.
 - **[SharePoint Embedded Overview](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview)** - Official Microsoft Learn documentation covering the fundamentals of SharePoint Embedded.
@@ -73,9 +73,8 @@ Independent software vendors building solutions with SharePoint Embedded.
 
 ## Community
 
-- **[SharePoint Developer Community](https://aka.ms/sppnp)** - Patterns and Practices community including SharePoint Embedded discussions.
-- **[Microsoft Tech Community - SharePoint Embedded](https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded)** - Official forum for questions and discussions.
-- **[Stack Overflow](https://stackoverflow.com/questions/tagged/sharepoint-embedded)** - Questions tagged with `sharepoint-embedded`.
+- **[SharePoint Developer Community](https://aka.ms/sppnp)** - Patterns and Practices community covering some SharePoint Embedded discussions.
+- **[Microsoft Tech Community - SharePoint Embedded](https://techcommunity.microsoft.com/search?q=%22sharepoint+embedded%22&contentType=FORUM)** - Official forum for questions and discussions.
 
 ## Contributing
 
