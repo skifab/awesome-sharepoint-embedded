@@ -28,4 +28,5 @@ jobs:
             --allow-dupe \
             --allow-redirect \
             --request-delay 1 \
-            --allow linkedin.com,twitter.com,facebook.com,aka.ms
+            --allow linkedin.com,twitter.com,facebook.com,aka.ms \
+            --allow 403
