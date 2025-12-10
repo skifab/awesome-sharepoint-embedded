@@ -12,6 +12,7 @@ SharePoint Embedded is a cloud-based file and document management system suitabl
 - [Applications](#applications)
   - [Microsoft First-Party Applications](#microsoft-first-party-applications)
   - [ISV Applications](#isv-applications)
+  - [Internal Applications](#internal-applications)
 - [Learning Resources](#learning-resources)
   - [Official Documentation](#official-documentation)
   - [Video Tutorials](#video-tutorials)
@@ -34,15 +35,22 @@ Microsoft has built several applications on SharePoint Embedded:
 Independent software vendors building solutions with SharePoint Embedded.
 
 - **[AvePoint Confide](https://www.avepoint.com/news/avepoint-introduces-public-preview-of-avepoint-confide-to-secure-and-simplify-external-collaboration)** - External collaboration solution powered by SharePoint Embedded, providing secure project rooms with enterprise-grade compliance and governance.
-- **[BDO](https://www.struto.io/case-studies/bdo-boosts-efficiency-crm-migration-sharepoint-x-hubspot-integration)** - Global accounting firm using SharePoint Embedded for document management and CRM integration, enabling secure client document workflows.
 - **[Egnyte](https://helpdesk.egnyte.com/hc/en-us/articles/41631421068685-Microsoft-Coediting-Sharepoint-Embedded-SPE-Integration)** - Content collaboration platform with SharePoint Embedded integration for Microsoft Office coediting and sensitivity labeling.
-- **[eni](https://download.microsoft.com/documents/customerevidence/Files/4000006412/EniEandPCaseStudy_Final.docx)** - Italian energy company using SharePoint Embedded for knowledge management and collaboration across global operations.
-- **[Kantar](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/scenarios-and-use-cases)** - Market research firm leveraging SharePoint Embedded for secure client data management and analytics workflows.
-- **[KPMG Clara](https://techcommunity.microsoft.com/blog/sharepoint_embedded/announcing-sharepoint-embedded-public-preview-at-espc23/3993428)** - Global audit platform using SharePoint Embedded for secure, compliant document collaboration at enterprise scale.
 - **[LexisNexis](https://www.lexisnexis.com/en-us/products/lexis-connect.page)** - Legal research and analytics platform with SharePoint Embedded integration for legal intake and matter management.
 - **[M-Files](https://www.m-files.com/lp/microsoft-365-document-management/)** - Document Management Platform
 - **[Sheetbin](https://sheetbin.com) [🧳](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin)** - Sharing site for Excel files.
+
+### Internal Applications
+
+Internal enterprise solutions built on SharePoint Embedded.
+
+- **[BDO](https://www.struto.io/case-studies/bdo-boosts-efficiency-crm-migration-sharepoint-x-hubspot-integration)** - Global accounting firm using SharePoint Embedded for document management and CRM integration, enabling secure client document workflows.
+- **[eni](https://download.microsoft.com/documents/customerevidence/Files/4000006412/EniEandPCaseStudy_Final.docx)** - Italian energy company using SharePoint Embedded for knowledge management and collaboration across global operations.
+- **[Kantar](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/scenarios-and-use-cases)** - Market research firm leveraging SharePoint Embedded for secure client data management and analytics workflows.
+- **[KPMG Clara](https://techcommunity.microsoft.com/blog/sharepoint_embedded/announcing-sharepoint-embedded-public-preview-at-espc23/3993428)** - Global audit platform using SharePoint Embedded for secure, compliant document collaboration at enterprise scale.
 - **[Thomson Reuters CoCounsel](https://www.thomsonreuters.com/en-us/help/cocounsel/legal/integrations/microsoft-365-integration/use-cocounsel-with-sharepoint-embedded)** - AI-powered legal platform using SharePoint Embedded for secure document management within client Microsoft 365 tenants.
+
+
 
 ## Learning Resources
 
