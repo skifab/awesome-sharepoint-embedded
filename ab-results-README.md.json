@@ -1,0 +1,448 @@
+{
+  "date": "2025-12-10 09:50:50 +0000",
+  "links": [
+    "https://awesome.re/badge.svg",
+    "https://awesome.re",
+    "https://www.microsoft.com/en-us/microsoft-loop",
+    "https://designer.microsoft.com/",
+    "https://www.m-files.com/lp/microsoft-365-document-management/",
+    "https://sheetbin.com",
+    "https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin",
+    "https://aka.ms/start-spe",
+    "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes",
+    "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview",
+    "https://aka.ms/start-spe-copilot",
+    "https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA",
+    "https://aka.ms/spe-2min",
+    "https://aka.ms/spe-playlist",
+    "https://aka.ms/spe-trialdemo",
+    "https://techcommunity.microsoft.com/t5/sharepoint-embedded-blog/bg-p/SharePointEmbeddedBlog",
+    "https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-build-file-and/ba-p/3830351",
+    "https://developer.microsoft.com/en-us/microsoft-365/blogs/",
+    "https://aka.ms/spe-samples",
+    "https://github.com/microsoft/SharePoint-Embedded-Samples",
+    "https://aka.ms/sppnp",
+    "https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded",
+    "https://stackoverflow.com/questions/tagged/sharepoint-embedded",
+    "https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg",
+    "https://creativecommons.org/publicdomain/zero/1.0"
+  ],
+  "issues": [
+    {
+      "url": "https://awesome.re/badge.svg",
+      "status": -1,
+      "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 1
+    },
+    {
+      "url": "https://awesome.re",
+      "status": -1,
+      "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 1
+    },
+    {
+      "url": "https://designer.microsoft.com/",
+      "status": -1,
+      "error": "Failed to open TCP connection to designer.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 27
+    },
+    {
+      "url": "https://www.m-files.com/lp/microsoft-365-document-management/",
+      "status": -1,
+      "error": "Failed to open TCP connection to www.m-files.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 33
+    },
+    {
+      "url": "https://sheetbin.com",
+      "status": -1,
+      "error": "Failed to open TCP connection to sheetbin.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 34
+    },
+    {
+      "url": "https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin",
+      "status": -1,
+      "error": "Failed to open TCP connection to marketplace.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 34
+    },
+    {
+      "url": "https://aka.ms/start-spe",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 40
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes",
+      "status": -1,
+      "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 41
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview",
+      "status": -1,
+      "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 42
+    },
+    {
+      "url": "https://aka.ms/start-spe-copilot",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 43
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA",
+      "status": -1,
+      "error": "Failed to open TCP connection to www.youtube.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 47
+    },
+    {
+      "url": "https://aka.ms/spe-2min",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 48
+    },
+    {
+      "url": "https://aka.ms/spe-playlist",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 49
+    },
+    {
+      "url": "https://aka.ms/spe-trialdemo",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 50
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-embedded-blog/bg-p/SharePointEmbeddedBlog",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 54
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-build-file-and/ba-p/3830351",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 55
+    },
+    {
+      "url": "https://developer.microsoft.com/en-us/microsoft-365/blogs/",
+      "status": -1,
+      "error": "Failed to open TCP connection to developer.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 56
+    },
+    {
+      "url": "https://aka.ms/spe-samples",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 60
+    },
+    {
+      "url": "https://aka.ms/sppnp",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 65
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 66
+    },
+    {
+      "url": "https://stackoverflow.com/questions/tagged/sharepoint-embedded",
+      "status": -1,
+      "error": "Failed to open TCP connection to stackoverflow.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 67
+    },
+    {
+      "url": "https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg",
+      "status": -1,
+      "error": "Failed to open TCP connection to mirrors.creativecommons.org:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 75
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0",
+      "status": -1,
+      "error": "Failed to open TCP connection to creativecommons.org:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 75
+    }
+  ],
+  "all": [
+    {
+      "url": "https://awesome.re/badge.svg",
+      "status": -1,
+      "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 1
+    },
+    {
+      "url": "https://awesome.re",
+      "status": -1,
+      "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 1
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/microsoft-loop",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "accept-ch": "Sec-CH-UA-Platform-Version",
+        "connection": "close",
+        "content-length": "196332",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 10 Dec 2025 09:50:27 GMT",
+        "ms-commit-id": "1d06e2c",
+        "ms-cv": "CASMicrosoftCV378befc4.0",
+        "ms-cv-esi": "CASMicrosoftCV378befc4.0",
+        "set-cookie": "CAS_PROGRAM=golf; expires=Wed, 10-Dec-2025 09:50:35 GMT; path=/; secure; SameSite=None",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "tls_version": "tls1.3",
+        "x-azure-ref": "20251210T095027Z-154f7c94665w9fj2hC1PHXuqe80000000sg00000000091br",
+        "x-cascade-version": "vNext",
+        "x-edgescape-location": "country_code=US",
+        "x-rtag": "AEM_Redir_PROD",
+        "x-trace-id": "8b8c4ebeb16127d1c07811d9db4e2ce6"
+      }
+    },
+    {
+      "url": "https://designer.microsoft.com/",
+      "status": -1,
+      "error": "Failed to open TCP connection to designer.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 27
+    },
+    {
+      "url": "https://www.m-files.com/lp/microsoft-365-document-management/",
+      "status": -1,
+      "error": "Failed to open TCP connection to www.m-files.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 33
+    },
+    {
+      "url": "https://sheetbin.com",
+      "status": -1,
+      "error": "Failed to open TCP connection to sheetbin.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 34
+    },
+    {
+      "url": "https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin",
+      "status": -1,
+      "error": "Failed to open TCP connection to marketplace.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 34
+    },
+    {
+      "url": "https://aka.ms/start-spe",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 40
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes",
+      "status": -1,
+      "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 41
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview",
+      "status": -1,
+      "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 42
+    },
+    {
+      "url": "https://aka.ms/start-spe-copilot",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 43
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA",
+      "status": -1,
+      "error": "Failed to open TCP connection to www.youtube.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 47
+    },
+    {
+      "url": "https://aka.ms/spe-2min",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 48
+    },
+    {
+      "url": "https://aka.ms/spe-playlist",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 49
+    },
+    {
+      "url": "https://aka.ms/spe-trialdemo",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 50
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-embedded-blog/bg-p/SharePointEmbeddedBlog",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 54
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-build-file-and/ba-p/3830351",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 55
+    },
+    {
+      "url": "https://developer.microsoft.com/en-us/microsoft-365/blogs/",
+      "status": -1,
+      "error": "Failed to open TCP connection to developer.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 56
+    },
+    {
+      "url": "https://aka.ms/spe-samples",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 60
+    },
+    {
+      "url": "https://github.com/microsoft/SharePoint-Embedded-Samples",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "connection": "close",
+        "content-security-policy": "default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com github.githubassets.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com marketplace-screenshots.githubusercontent.com/ copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com github.githubassets.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 10 Dec 2025 09:50:45 GMT",
+        "etag": "W/\"415693731e604c1d70c9ee97dcdf28ea\"",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "server": "github.com",
+        "set-cookie": "_gh_sess=syhChXbmlmdJKJ9WnCPhIFYLaat57Tlz1fPo09Rr8lggg8Y0dseilW2RtolIYy9mGHFPT5WbjIL6bkdgbHr9IPs6GMgFHc3WAaXkgyTUMD5ahKktyQ0MaWKtMGTIMw29ZTjTJIDBkawOmNEFwuzCkS3n2YzxUHKsZFmLiOMqSiDtv70rLsxZMzyqxmh9Ii%2BuupjozJ1Fcc%2Fah70850Wc%2FKPgRoCuCwDSM99atiuilVbHvh2JkL9GqG8zK4Ryo%2F4z%2Fe14fZfn2mBxEecwR5JLdw%3D%3D--03%2F0oVKBv%2B25xJY7--O1hyoxAYpnpXEW2qNOsotw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax, _octo=GH1.1.275821321.1765360245; Path=/; Domain=github.com; Expires=Thu, 10 Dec 2026 09:50:45 GMT; Secure; SameSite=Lax, logged_in=no; Path=/; Domain=github.com; Expires=Thu, 10 Dec 2026 09:50:45 GMT; HttpOnly; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+        "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding, Accept, X-Requested-With",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "deny",
+        "x-github-request-id": "0800:1C678E:B7786:10E193:69394274",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "url": "https://aka.ms/sppnp",
+      "status": -1,
+      "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 65
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded",
+      "status": -1,
+      "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 66
+    },
+    {
+      "url": "https://stackoverflow.com/questions/tagged/sharepoint-embedded",
+      "status": -1,
+      "error": "Failed to open TCP connection to stackoverflow.com:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 67
+    },
+    {
+      "url": "https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg",
+      "status": -1,
+      "error": "Failed to open TCP connection to mirrors.creativecommons.org:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 75
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0",
+      "status": -1,
+      "error": "Failed to open TCP connection to creativecommons.org:443 (getaddrinfo: No address associated with hostname)",
+      "headers": {
+      },
+      "loc": 75
+    }
+  ]
+}

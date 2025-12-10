@@ -1,0 +1,163 @@
+[
+  {
+    "loc": 1,
+    "status": -1,
+    "link": "https://awesome.re/badge.svg",
+    "redirect": "",
+    "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 1,
+    "status": -1,
+    "link": "https://awesome.re",
+    "redirect": "",
+    "error": "Failed to open TCP connection to awesome.re:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 27,
+    "status": -1,
+    "link": "https://designer.microsoft.com/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to designer.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 33,
+    "status": -1,
+    "link": "https://www.m-files.com/lp/microsoft-365-document-management/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.m-files.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 34,
+    "status": -1,
+    "link": "https://sheetbin.com",
+    "redirect": "",
+    "error": "Failed to open TCP connection to sheetbin.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 34,
+    "status": -1,
+    "link": "https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin",
+    "redirect": "",
+    "error": "Failed to open TCP connection to marketplace.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 40,
+    "status": -1,
+    "link": "https://aka.ms/start-spe",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 41,
+    "status": -1,
+    "link": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes",
+    "redirect": "",
+    "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 42,
+    "status": -1,
+    "link": "https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview",
+    "redirect": "",
+    "error": "Failed to open TCP connection to learn.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 43,
+    "status": -1,
+    "link": "https://aka.ms/start-spe-copilot",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 47,
+    "status": -1,
+    "link": "https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.youtube.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 48,
+    "status": -1,
+    "link": "https://aka.ms/spe-2min",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 49,
+    "status": -1,
+    "link": "https://aka.ms/spe-playlist",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 50,
+    "status": -1,
+    "link": "https://aka.ms/spe-trialdemo",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 54,
+    "status": -1,
+    "link": "https://techcommunity.microsoft.com/t5/sharepoint-embedded-blog/bg-p/SharePointEmbeddedBlog",
+    "redirect": "",
+    "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 55,
+    "status": -1,
+    "link": "https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-build-file-and/ba-p/3830351",
+    "redirect": "",
+    "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 56,
+    "status": -1,
+    "link": "https://developer.microsoft.com/en-us/microsoft-365/blogs/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to developer.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 60,
+    "status": -1,
+    "link": "https://aka.ms/spe-samples",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 65,
+    "status": -1,
+    "link": "https://aka.ms/sppnp",
+    "redirect": "",
+    "error": "Failed to open TCP connection to aka.ms:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 66,
+    "status": -1,
+    "link": "https://techcommunity.microsoft.com/t5/sharepoint-embedded/ct-p/SharePointEmbedded",
+    "redirect": "",
+    "error": "Failed to open TCP connection to techcommunity.microsoft.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 67,
+    "status": -1,
+    "link": "https://stackoverflow.com/questions/tagged/sharepoint-embedded",
+    "redirect": "",
+    "error": "Failed to open TCP connection to stackoverflow.com:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 75,
+    "status": -1,
+    "link": "https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg",
+    "redirect": "",
+    "error": "Failed to open TCP connection to mirrors.creativecommons.org:443 (getaddrinfo: No address associated with hostname)"
+  },
+  {
+    "loc": 75,
+    "status": -1,
+    "link": "https://creativecommons.org/publicdomain/zero/1.0",
+    "redirect": "",
+    "error": "Failed to open TCP connection to creativecommons.org:443 (getaddrinfo: No address associated with hostname)"
+  }
+]
