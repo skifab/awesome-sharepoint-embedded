@@ -40,14 +40,14 @@ Independent software vendors building solutions with SharePoint Embedded.
 - **[Get Started with SharePoint Embedded](https://aka.ms/start-spe)** - Official Microsoft Learn getting started guide for SharePoint Embedded.
 - **[SharePoint Embedded API Reference](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/concepts/app-concepts/containertypes)** - Complete API documentation for SharePoint Embedded.
 - **[SharePoint Embedded Overview](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview)** - Official Microsoft Learn documentation covering the fundamentals of SharePoint Embedded.
-- **[Start with Copilot](https://aka.ms/start-spe-copilot)** - Guide to getting started with SharePoint Embedded using GitHub Copilot.
+- **[SharePoint Embedded with Copilot](https://aka.ms/start-spe-copilot)** - Guide to getting started with SharePoint Embedded using GitHub Copilot.
 
 ### Video Tutorials
 
 - **[Microsoft 365 & Power Platform Development Community Calls](https://www.youtube.com/playlist?list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)** - Regular community calls featuring SharePoint Embedded updates and demos.
 - **[SharePoint Embedded in 2 Minutes](https://aka.ms/spe-2min)** - Quick introduction video to SharePoint Embedded.
 - **[SharePoint Embedded Video Playlist](https://aka.ms/spe-playlist)** - Comprehensive YouTube playlist covering SharePoint Embedded topics.
-- **[Trial Setup Video](https://aka.ms/spe-trialdemo)** - Step-by-step video guide for setting up a SharePoint Embedded trial.
+- **[SharePoint Embedded Trial Setup](https://aka.ms/spe-trialdemo)** - Step-by-step video guide for setting up a SharePoint Embedded trial.
 
 ### Blog Posts & Articles
 
@@ -58,7 +58,7 @@ Independent software vendors building solutions with SharePoint Embedded.
 ## Developer Tools
 
 - **[SharePoint Embedded Code Samples](https://aka.ms/spe-samples)** - Official Microsoft code samples and examples for SharePoint Embedded.
-- **[SharePoint Embedded Samples Repository](https://github.com/microsoft/SharePoint-Embedded-Samples)** - Official Microsoft sample applications and code snippets.
+- **[SharePoint Embedded Samples Repository](https://github.com/microsoft/SharePoint-Embedded-Samples)** - Official GitHub repository with sample applications and code snippets.
 
 ## Community
 
