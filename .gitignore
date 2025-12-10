@@ -13,3 +13,6 @@ Thumbs.db
 *.tmp
 .tmp/
 temp/
+
+# awesome_bot results
+ab-results-*.json
