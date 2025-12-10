@@ -38,7 +38,7 @@ Independent software vendors building solutions with SharePoint Embedded.
 - **[Egnyte](https://helpdesk.egnyte.com/hc/en-us/articles/41631421068685-Microsoft-Coediting-Sharepoint-Embedded-SPE-Integration)** - Content collaboration platform with SharePoint Embedded integration for Microsoft Office coediting and sensitivity labeling.
 - **[LexisNexis](https://www.lexisnexis.com/en-us/products/lexis-connect.page)** - Legal research and analytics platform with SharePoint Embedded integration for legal intake and matter management.
 - **[M-Files](https://www.m-files.com/lp/microsoft-365-document-management/)** - Document Management Platform
-- **[Sheetbin](https://sheetbin.com)**  - [MS MarketPlace](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin) - Sharing site for Excel files.
+- **[Sheetbin](https://sheetbin.com)** ([MS MarketPlace](https://marketplace.microsoft.com/en-us/product/saas/samarb.sheetbin)) - Sharing site for Excel files.
 
 ### Internal Applications
 
