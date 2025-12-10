@@ -29,8 +29,10 @@ jobs:
             --exclude 'linkedin.com'
             --exclude 'twitter.com'
             --exclude 'facebook.com'
+            --exclude 'helpdesk.egnyte.com'
             --max-retries 3
             --timeout 20
+            --accept 'text/html'
             README.md
           fail: true
         env:
