@@ -2,7 +2,10 @@
 
 > A curated list of awesome SharePoint Embedded applications, resources, and learning materials.
 
-SharePoint Embedded is a cloud-based file and document management system suitable for use in any application. It provides API-only enterprise-grade compliance, security, and Microsoft 365 integration capabilities.
+SharePoint Embedded is a cloud-based file and document management system suitable for use in any application. It provides API-only enterprise-grade compliance, security, and deep Microsoft 365 integration capabilities.
+
+> [!NOTE]
+  This list is maintained by [Asgeir Frimannsson](https://github.com/asgeirf). Shout out if you need help, and check out my projects at [Skissefabrikken AS](https://skissefabrikken.no/).
 
 ## Contents
 
